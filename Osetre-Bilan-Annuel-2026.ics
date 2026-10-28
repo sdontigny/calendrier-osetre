@@ -1,31 +1,29 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//OSETRE//BILAN ANNUEL 2026//FR
+PRODID:-//Osetre Coaching Conseil//Bilan Annuel 2026//FR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:OSÊTRE - BILAN ANNUEL 2026
 BEGIN:VEVENT
-UID:bilan-annuel-2026-20261201@osetre.ca
-DTSTAMP:20261024T160000Z
+UID:osetre-bilan-annuel-2026-12-01@osetre.ca
+DTSTAMP:20261028T193100Z
 DTSTART:20261201T110000Z
 DTEND:20261201T120000Z
-SUMMARY:OSÊTRE | BILAN ANNUEL 2026 — Jour 1
-DESCRIPTION:OSÊTRE | BILAN ANNUEL 2026\n\nET SI TOUT CE QUE TU AS VÉCU EN
-  2026 DEVENAIT UN AVANTAGE POUR 2027 ?\n\nTrois matins pour prendre du rec
- ul sur ton année\, reconnaître ce que tu as vécu et accompli\, évaluer
-  où tu en es et te réaligner sur ce que tu veux vivre et créer en 2027.
- \n\nAU PROGRAMME :\n1er décembre — Reconnaître et célébrer : prendre
-  conscience du chemin parcouru\, de tes réalisations et de tes apprentiss
- ages.\n2 décembre — Évaluer : faire le point sur les différentes sph
- ères de ta vie et ce qui mérite ton attention.\n3 décembre — Se réal
- igner : tirer profit de ton bilan pour faire des choix plus éclairés et 
- ouvrir de nouvelles possibilités pour 2027.\n\nQUAND : 1er\, 2 et 3 déce
- mbre 2026\, de 6 h à 7 h (heure du Québec).\nOÙ : En direct sur Zoom.\n
- Lien Zoom : https://us02web.zoom.us/j/84490387056?pwd=iws0ysBmnMZv0DYg6MPi
- ZdPyqW0eoM.1\nID de réunion : 844 9038 7056\nCode secret : 913946\n\nPré
- vois un endroit calme et de quoi écrire pour profiter pleinement de ces t
- rois rencontres.\n\nStéphanie Dontigny\, ing.\, PCC\nCoach professionnell
- e d'entrepreneurs\nOSÊTRE COACHING CONSEIL
+SUMMARY:OSÊTRE | BILAN ANNUEL 2026
+DESCRIPTION:Trois matins pour transformer ton expérience de 2026 en un ava
+ ntage pour 2027.\n\nComme entrepreneur\, investisseur immobilier ou coach\
+ , il est temps de reconnaître ce que ton année t'a appris et d'en tirer 
+ profit pour la suite.\n\nPendant ces trois rencontres en direct\, tu vas f
+ aire bien plus que revenir sur les événements de 2026. Tu vas reconnaît
+ re tes réalisations\, évaluer ce que tu veux faire évoluer et utiliser 
+ tes apprentissages pour envisager de nouvelles possibilités en 2027.\n\nN
+ e laisse pas passer l'occasion de tirer pleinement profit de ton année. S
+ ois présent en direct pour faire ton bilan et préparer la suite.\n\nPour
+  nous rejoindre en direct c'est par ici:\n\nhttps://us02web.zoom.us/j/8449
+ 0387056?pwd=iws0ysBmnMZv0DYg6MPiZdPyqW0eoM.1\n\nID de réunion : 844 9038 
+ 7056\n\nCode secret : 913946\n\nBien hâte de vivre ça avec toi et au pla
+ isir de t'accompagner\,\n\nStéphanie Dontigny\, ing.\, PCC\n\nCoach profe
+ ssionnelle d'entrepreneurs\n\nOSÊTRE COACHING CONSEIL
 LOCATION:https://us02web.zoom.us/j/84490387056?pwd=iws0ysBmnMZv0DYg6MPiZdPy
  qW0eoM.1
 URL:https://us02web.zoom.us/j/84490387056?pwd=iws0ysBmnMZv0DYg6MPiZdPyqW0eo
@@ -33,27 +31,25 @@ URL:https://us02web.zoom.us/j/84490387056?pwd=iws0ysBmnMZv0DYg6MPiZdPyqW0eo
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bilan-annuel-2026-20261202@osetre.ca
-DTSTAMP:20261024T160000Z
+UID:osetre-bilan-annuel-2026-12-02@osetre.ca
+DTSTAMP:20261028T193100Z
 DTSTART:20261202T110000Z
 DTEND:20261202T120000Z
-SUMMARY:OSÊTRE | BILAN ANNUEL 2026 — Jour 2
-DESCRIPTION:OSÊTRE | BILAN ANNUEL 2026\n\nET SI TOUT CE QUE TU AS VÉCU EN
-  2026 DEVENAIT UN AVANTAGE POUR 2027 ?\n\nTrois matins pour prendre du rec
- ul sur ton année\, reconnaître ce que tu as vécu et accompli\, évaluer
-  où tu en es et te réaligner sur ce que tu veux vivre et créer en 2027.
- \n\nAU PROGRAMME :\n1er décembre — Reconnaître et célébrer : prendre
-  conscience du chemin parcouru\, de tes réalisations et de tes apprentiss
- ages.\n2 décembre — Évaluer : faire le point sur les différentes sph
- ères de ta vie et ce qui mérite ton attention.\n3 décembre — Se réal
- igner : tirer profit de ton bilan pour faire des choix plus éclairés et 
- ouvrir de nouvelles possibilités pour 2027.\n\nQUAND : 1er\, 2 et 3 déce
- mbre 2026\, de 6 h à 7 h (heure du Québec).\nOÙ : En direct sur Zoom.\n
- Lien Zoom : https://us02web.zoom.us/j/84490387056?pwd=iws0ysBmnMZv0DYg6MPi
- ZdPyqW0eoM.1\nID de réunion : 844 9038 7056\nCode secret : 913946\n\nPré
- vois un endroit calme et de quoi écrire pour profiter pleinement de ces t
- rois rencontres.\n\nStéphanie Dontigny\, ing.\, PCC\nCoach professionnell
- e d'entrepreneurs\nOSÊTRE COACHING CONSEIL
+SUMMARY:OSÊTRE | BILAN ANNUEL 2026
+DESCRIPTION:Trois matins pour transformer ton expérience de 2026 en un ava
+ ntage pour 2027.\n\nComme entrepreneur\, investisseur immobilier ou coach\
+ , il est temps de reconnaître ce que ton année t'a appris et d'en tirer 
+ profit pour la suite.\n\nPendant ces trois rencontres en direct\, tu vas f
+ aire bien plus que revenir sur les événements de 2026. Tu vas reconnaît
+ re tes réalisations\, évaluer ce que tu veux faire évoluer et utiliser 
+ tes apprentissages pour envisager de nouvelles possibilités en 2027.\n\nN
+ e laisse pas passer l'occasion de tirer pleinement profit de ton année. S
+ ois présent en direct pour faire ton bilan et préparer la suite.\n\nPour
+  nous rejoindre en direct c'est par ici:\n\nhttps://us02web.zoom.us/j/8449
+ 0387056?pwd=iws0ysBmnMZv0DYg6MPiZdPyqW0eoM.1\n\nID de réunion : 844 9038 
+ 7056\n\nCode secret : 913946\n\nBien hâte de vivre ça avec toi et au pla
+ isir de t'accompagner\,\n\nStéphanie Dontigny\, ing.\, PCC\n\nCoach profe
+ ssionnelle d'entrepreneurs\n\nOSÊTRE COACHING CONSEIL
 LOCATION:https://us02web.zoom.us/j/84490387056?pwd=iws0ysBmnMZv0DYg6MPiZdPy
  qW0eoM.1
 URL:https://us02web.zoom.us/j/84490387056?pwd=iws0ysBmnMZv0DYg6MPiZdPyqW0eo
@@ -61,27 +57,25 @@ URL:https://us02web.zoom.us/j/84490387056?pwd=iws0ysBmnMZv0DYg6MPiZdPyqW0eo
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bilan-annuel-2026-20261203@osetre.ca
-DTSTAMP:20261024T160000Z
+UID:osetre-bilan-annuel-2026-12-03@osetre.ca
+DTSTAMP:20261028T193100Z
 DTSTART:20261203T110000Z
 DTEND:20261203T120000Z
-SUMMARY:OSÊTRE | BILAN ANNUEL 2026 — Jour 3
-DESCRIPTION:OSÊTRE | BILAN ANNUEL 2026\n\nET SI TOUT CE QUE TU AS VÉCU EN
-  2026 DEVENAIT UN AVANTAGE POUR 2027 ?\n\nTrois matins pour prendre du rec
- ul sur ton année\, reconnaître ce que tu as vécu et accompli\, évaluer
-  où tu en es et te réaligner sur ce que tu veux vivre et créer en 2027.
- \n\nAU PROGRAMME :\n1er décembre — Reconnaître et célébrer : prendre
-  conscience du chemin parcouru\, de tes réalisations et de tes apprentiss
- ages.\n2 décembre — Évaluer : faire le point sur les différentes sph
- ères de ta vie et ce qui mérite ton attention.\n3 décembre — Se réal
- igner : tirer profit de ton bilan pour faire des choix plus éclairés et 
- ouvrir de nouvelles possibilités pour 2027.\n\nQUAND : 1er\, 2 et 3 déce
- mbre 2026\, de 6 h à 7 h (heure du Québec).\nOÙ : En direct sur Zoom.\n
- Lien Zoom : https://us02web.zoom.us/j/84490387056?pwd=iws0ysBmnMZv0DYg6MPi
- ZdPyqW0eoM.1\nID de réunion : 844 9038 7056\nCode secret : 913946\n\nPré
- vois un endroit calme et de quoi écrire pour profiter pleinement de ces t
- rois rencontres.\n\nStéphanie Dontigny\, ing.\, PCC\nCoach professionnell
- e d'entrepreneurs\nOSÊTRE COACHING CONSEIL
+SUMMARY:OSÊTRE | BILAN ANNUEL 2026
+DESCRIPTION:Trois matins pour transformer ton expérience de 2026 en un ava
+ ntage pour 2027.\n\nComme entrepreneur\, investisseur immobilier ou coach\
+ , il est temps de reconnaître ce que ton année t'a appris et d'en tirer 
+ profit pour la suite.\n\nPendant ces trois rencontres en direct\, tu vas f
+ aire bien plus que revenir sur les événements de 2026. Tu vas reconnaît
+ re tes réalisations\, évaluer ce que tu veux faire évoluer et utiliser 
+ tes apprentissages pour envisager de nouvelles possibilités en 2027.\n\nN
+ e laisse pas passer l'occasion de tirer pleinement profit de ton année. S
+ ois présent en direct pour faire ton bilan et préparer la suite.\n\nPour
+  nous rejoindre en direct c'est par ici:\n\nhttps://us02web.zoom.us/j/8449
+ 0387056?pwd=iws0ysBmnMZv0DYg6MPiZdPyqW0eoM.1\n\nID de réunion : 844 9038 
+ 7056\n\nCode secret : 913946\n\nBien hâte de vivre ça avec toi et au pla
+ isir de t'accompagner\,\n\nStéphanie Dontigny\, ing.\, PCC\n\nCoach profe
+ ssionnelle d'entrepreneurs\n\nOSÊTRE COACHING CONSEIL
 LOCATION:https://us02web.zoom.us/j/84490387056?pwd=iws0ysBmnMZv0DYg6MPiZdPy
  qW0eoM.1
 URL:https://us02web.zoom.us/j/84490387056?pwd=iws0ysBmnMZv0DYg6MPiZdPyqW0eo
