@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Osetre Coaching Conseil//Calendriers 2027//FR-CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fa35b411-d674-4684-8a5f-260a0c86aac2@osetre.ca
+DTSTAMP:20261106T200000Z
+DTSTART:20270115T000000Z
+DTEND:20270115T020000Z
+SUMMARY:OSÊTRE - CONFECTION DU VISION BOARD
+DESCRIPTION:Plage horaire spécialement dédiée à la confection de ton 
+ visionboard\, où on se retrouvera en direct pour le faire ensemble.\n\n
+ Prépare ton matériel (photos\, carton\, ciseaux\, colle ou appli comme
+  Canva ou autre)\, tout ce dont tu auras besoin pour créer un visionboa
+ rd qui t'accompagnera tout au long de l'année pour garder bien présent
+  ce que tu as choisi de vivre\, réaliser et créer.\n\nPrêt.e pas prê
+ t.e on t'attend pour que tu puisses avancer dans la réalisation de cet 
+ outils puissant pour toi !\n\nAu plaisir de t'accompagner\,\nStéphanie 
+ Dontigny\, ing. PCC\nCoach professionnelle certifiée PNL\nOsêtre Coach
+ ing Conseil.\n\nTON ACCÈS ZOOM :\nhttps://us02web.zoom.us/j/84246739646
+ ?pwd=0lc9GJdYObuvIcF1s7s6YQo6kpb7fI.1\nID de réunion : 842 4673 9646\nC
+ ode secret : 542862
+LOCATION:Zoom
+URL:https://us02web.zoom.us/j/84246739646?pwd=0lc9GJdYObuvIcF1s7s6YQo6kpb
+ 7fI.1
+SEQUENCE:1
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

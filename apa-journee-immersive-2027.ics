@@ -1,14 +1,22 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Osetre//APA 2027//FR
+PRODID:-//Osetre Coaching Conseil//Calendriers 2027//FR-CA
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:18a284bd-54ba-4408-b43d-52983037629e@osetre.ca
-DTSTAMP:20261023T013914Z
+DTSTAMP:20261106T200000Z
 DTSTART:20270109T140000Z
 DTEND:20270109T213000Z
-SUMMARY:OSÊTRE ALIGNÉ POUR L’ANNÉE 2027
-DESCRIPTION:Journée immersive. Les détails du lieu ou de l’accès Zoom seront transmis par courriel.
+SUMMARY:OSÊTRE ALIGNÉ POUR L'ANNÉE 2027
+DESCRIPTION:Entrepreneur\, investisseur immobilier ou coach : tu vivras u
+ ne journée immersive pour définir tes objectifs 2027 alignés sur ce q
+ ue tu veux vivre et créer\, bâtir ton plan d'action et ton vision boar
+ d\, en accordant autant d'importance à tes résultats qu'à ton épanou
+ issement et ta qualité de vie.\n\nAu plaisir de t'accompagner\,\nStéph
+ anie Dontigny\, ing. PCC\nCoach professionnelle certifiée PNL\nOsêtre 
+ Coaching Conseil.
+SEQUENCE:1
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
